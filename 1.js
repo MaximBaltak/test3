@@ -3,3 +3,4 @@ a.forEach(el=>{
     if(el<5)
         console.log(el)
 })
+1

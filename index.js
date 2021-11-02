@@ -6,3 +6,4 @@ let obj={
 }
 
 console.log(obj.colors.filter(color=>color==='blue').join()[0])
+1
